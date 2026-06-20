@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeno Classic Dialer</string>
+    <string name="accessibility_description">يسمح لزري الاتصال والإنهاء في شريط الأدوات بالاتصال بالأرقام وإغلاق لوحة الاتصال.</string>
+
+    <!-- Tabs -->
+    <string name="tab_calls">المكالمات</string>
+    <string name="tab_contacts">جهات الاتصال</string>
+    <string name="tab_dial_pad">لوحة الاتصال</string>
+    <string name="tab_favorites">المفضلة</string>
+    <string name="tab_home">الرئيسية</string>
+    <string name="tab_keypad">لوحة المفاتيح</string>
+
+    <!-- Main UI -->
+    <string name="search_contacts">البحث في جهات الاتصال</string>
+    <string name="no_contacts">لا توجد جهات اتصال</string>
+    <string name="no_history">لا يوجد سجل</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="recent_empty_hint">ستظهر هنا مكالماتك وجهات اتصالك الأخيرة</string>
+    <string name="clear">مسح</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="ok">موافق</string>
+    <string name="pasted">تم اللصق</string>
+    <string name="nothing_to_paste">لا يوجد ما يُلصق</string>
+    <string name="copied">تم النسخ</string>
+    <string name="menu">القائمة</string>
+    <string name="voice_search">البحث الصوتي</string>
+    <string name="voice_search_prompt">البحث في جهات الاتصال…</string>
+
+    <!-- Call Log / History -->
+    <string name="filter_all">الكل</string>
+    <string name="filter_missed">الفائتة</string>
+    <string name="filter_received">المُستلمة</string>
+    <string name="filter_contacts">جهات الاتصال</string>
+    <string name="filter_recents">الأخيرة</string>
+    <string name="today">اليوم</string>
+    <string name="yesterday">أمس</string>
+    <string name="just_now">الآن</string>
+    <string name="min_ago">منذ %1$d دقيقة</string>
+    <string name="hr_ago">منذ %1$d ساعة</string>
+    <string name="days_ago">منذ %1$d أيام</string>
+    <string name="m_ago">%1$dد</string>
+    <string name="h_ago">%1$dس</string>
+    <string name="d_ago">%1$dي</string>
+
+    <!-- Call Actions -->
+    <string name="call">اتصال</string>
+    <string name="message">رسالة</string>
+    <string name="history">السجل</string>
+    <string name="edit_contact">تعديل جهة الاتصال</string>
+    <string name="add_to_contacts">إضافة إلى جهات الاتصال</string>
+    <string name="add_to_favorites">إضافة إلى المفضلة</string>
+    <string name="remove_from_blocked">إزالة من المحظورين</string>
+    <string name="add_to_blocked">إضافة إلى المحظورين</string>
+    <string name="copy_number">نسخ الرقم</string>
+    <string name="view_call_history">عرض سجل المكالمات</string>
+    <string name="delete_from_log">حذف من السجل</string>
+    <string name="delete_log_confirm_title">حذف سجل المكالمات؟</string>
+    <string name="delete_log_confirm_msg">سيُحذف سجل جميع مكالمات %1$s نهائياً.</string>
+    <string name="see_more_in_history">عرض المزيد في السجل</string>
+
+    <!-- Favorites -->
+    <string name="pinned">مثبَّت</string>
+    <string name="suggestions">اقتراحات</string>
+    <string name="no_suggestions">لا توجد اقتراحات بعد</string>
+    <string name="pin_hint">اضغط مطولاً على جهة اتصال أدناه لتثبيتها هنا</string>
+    <string name="pin">تثبيت</string>
+    <string name="unpin">إلغاء التثبيت</string>
+
+    <!-- Dialpad -->
+    <string name="enter_number">أدخل الرقم</string>
+    <string name="add_contact">إضافة جهة اتصال</string>
+    <string name="backspace">حذف</string>
+    <string name="dialpad_paste">لصق</string>
+    <string name="dialpad_paste_hint">من الحافظة</string>
+    <string name="dialpad_copy_hint">الرقم في الحقل</string>
+    <string name="dialpad_number_bar_a11y">إدخال الرقم؛ اضغط مطولاً للصق أو النسخ</string>
+
+    <!-- In-Call -->
+    <string name="answer">رد</string>
+    <string name="decline">رفض</string>
+    <string name="end">إنهاء</string>
+    <string name="end_call">إنهاء المكالمة</string>
+    <string name="speaker">مكبر الصوت</string>
+    <string name="mute">كتم الصوت</string>
+    <string name="dial_pad">لوحة الاتصال</string>
+    <string name="hold">تعليق</string>
+    <string name="unhold">استئناف</string>
+    <string name="record">تسجيل</string>
+    <string name="add_a_call">إضافة مكالمة</string>
+    <string name="active_call">مكالمة نشطة</string>
+    <string name="on_hold">قيد التعليق</string>
+    <string name="calling">جارٍ الاتصال…</string>
+    <string name="in_call">في مكالمة</string>
+    <string name="incoming_call">مكالمة واردة</string>
+    <string name="missed_call">مكالمة فائتة</string>
+    <string name="outgoing_call">مكالمة صادرة</string>
+    <string name="blocked_call">مكالمة محظورة</string>
+    <string name="rejected_call">مكالمة مرفوضة</string>
+    <string name="connecting">جارٍ الاتصال…</string>
+    <string name="call_ended">انتهت المكالمة</string>
+    <string name="ending">جارٍ الإنهاء…</string>
+    <string name="switch_call">تبديل المكالمة</string>
+    <string name="recording_started">بدأ التسجيل — تم تفعيل مكبر الصوت لالتقاط الجانبين</string>
+    <string name="recording_saved">تم حفظ التسجيل</string>
+    <string name="recording_error">انتهى التسجيل (الملف قصير جداً أو حدث خطأ)</string>
+    <string name="could_not_start_recording">تعذّر بدء التسجيل</string>
+    <string name="mic_permission_required">يلزم إذن الميكروفون للتسجيل</string>
+    <string name="sms_permission_required">يلزم إذن الرسائل للرد السريع</string>
+    <string name="message_sent">تم إرسال الرسالة</string>
+    <string name="quick_reply_templates">قوالب الرد السريع</string>
+    <string name="write_your_own">اكتب ردك…</string>
+    <string name="send_message_to">إرسال رسالة إلى</string>
+
+    <!-- Settings -->
+    <string name="settings">الإعدادات</string>
+    <string name="call_assist">مساعد المكالمات</string>
+    <string name="caller_id_spam">هوية المتصل &amp; البريد العشوائي</string>
+    <string name="general">عام</string>
+    <string name="accessibility">إمكانية الوصول</string>
+    <string name="assisted_dialing">الاتصال المساعد</string>
+    <string name="blocked_numbers">الأرقام المحظورة</string>
+    <string name="calls">المكالمات</string>
+    <string name="display_options">خيارات العرض</string>
+    <string name="quick_reply_templates_title">قوالب الرد السريع</string>
+    <string name="sounds_vibration">الأصوات والاهتزاز</string>
+    <string name="voicemail">البريد الصوتي</string>
+    <string name="contact_ringtones">نغمات جهات الاتصال</string>
+    <string name="calling_card">بطاقة الاتصال</string>
+    <string name="advanced">متقدم</string>
+    <string name="caller_id_announcement">إعلان هوية المتصل</string>
+    <string name="flip_to_silence">اقلب الجهاز لتكتيم الصوت</string>
+    <string name="about">حول</string>
+    <string name="about_app">حول Zeno Classic Dialer</string>
+    <string name="version_label">الإصدار %1$s</string>
+    <string name="clear_history">مسح سجل المكالمات</string>
+    <string name="clear_history_confirm_title">مسح سجل المكالمات؟</string>
+    <string name="clear_history_confirm_msg">سيُحذف سجل جميع المكالمات نهائياً.</string>
+    <string name="see_caller_spam_id">عرض هوية المتصل والبريد العشوائي</string>
+    <string name="see_caller_spam_id_desc">التعرف على أرقام الأعمال والبريد العشوائي</string>
+    <string name="filter_spam">تصفية مكالمات البريد العشوائي</string>
+    <string name="filter_spam_desc">منع مكالمات البريد العشوائي المشبوهة من إزعاجك</string>
+    <string name="caller_id_spam_info">سيحاول Zeno Classic Dialer عرض معلومات مفيدة عند إجراء أو استقبال مكالمة، مثل اسم رقم غير موجود في جهات الاتصال أو تحذير عند الاشتباه في أن المكالمة الواردة بريد عشوائي.</string>
+    <string name="default_home_country">الدولة الافتراضية</string>
+    <string name="auto_detected">تم الكشف تلقائياً</string>
+    <string name="assisted_dialing_info">يتوقع الاتصال المساعد رمز الدولة ويضيفه عند الاتصال أثناء السفر خارج البلاد.</string>
+    <string name="send_responses_instantly">إرسال الردود السريعة فوراً</string>
+    <string name="send_responses_instantly_desc">عند الإيقاف، يفتح تطبيق الرسائل مع نص مُعبأ مسبقاً</string>
+    <string name="appearance">المظهر</string>
+    <string name="choose_theme">اختر السمة</string>
+    <string name="controls">عناصر التحكم</string>
+    <string name="keep_portrait">الحفاظ على الوضع العمودي أثناء المكالمات</string>
+    <string name="keep_portrait_desc">يمنع الدوران التلقائي العرضي أثناء المكالمة</string>
+    <string name="flip_to_silence_desc">لتكتيم مكالمة واردة، ضع الجهاز بشاشته للأسفل على سطح مستوٍ</string>
+    <string name="announce_caller_id">الإعلان عن هوية المتصل</string>
+    <string name="never">أبداً</string>
+    <string name="always">دائماً</string>
+    <string name="headset_only">عند استخدام سماعة الرأس فقط</string>
+    <string name="caller_id_announcement_info">سيُقرأ اسم ورقم المتصل بصوت عالٍ للمكالمات الواردة.</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="visual_voicemail">البريد الصوتي المرئي</string>
+    <string name="visual_voicemail_desc">قد لا يدعم المشغل البريد الصوتي المرئي</string>
+    <string name="advanced_settings">الإعدادات المتقدمة</string>
+    <string name="contact_ringtones_desc">أضف نغمة رنين مخصصة لجهات الاتصال الفردية للتعرف على المتصل. لإدارة نغمة الرنين الافتراضية، تفضل بزيارة الإعدادات.</string>
+    <string name="add_contact_ringtone">إضافة نغمة لجهة اتصال</string>
+    <string name="your_calling_card">بطاقتك</string>
+    <string name="your_calling_card_desc">كيف ستظهر للآخرين عند إجراء المكالمات أو استقبالها</string>
+    <string name="create">إنشاء</string>
+    <string name="contact_calling_card">بطاقة جهة الاتصال</string>
+    <string name="contact_calling_card_desc">كيف ترى اسم وصورة جهة الاتصال عند اتصالها</string>
+    <string name="back">رجوع</string>
+    <string name="more">المزيد</string>
+    <string name="mobile">جوال</string>
+    <string name="work">عمل</string>
+
+    <!-- Permissions / Prompts -->
+    <string name="phone_permission_required">يلزم إذن الهاتف</string>
+    <string name="telecom_failed">فشل Telecom (%1$s)، جارٍ تجربة ACTION_CALL</string>
+    <string name="fallback_failed">فشل الخيار الاحتياطي: %1$s</string>
+    <string name="could_not_open_contact">تعذّر فتح جهة الاتصال: %1$s</string>
+    <string name="enable_toolbar_buttons">تفعيل أزرار شريط الأدوات</string>
+    <string name="accessibility_prompt_msg">اسمح لـ Zeno Classic Dialer باستخدام أزرار الاتصال والإنهاء على شريط أدوات لوحة المفاتيح.\n\nابحث عن «Zeno Classic Dialer» في القائمة وفعّله.</string>
+    <string name="open_settings">فتح الإعدادات</string>
+    <string name="not_now">ليس الآن</string>
+    <string name="set_as_default_hint">اضغط لتعيينه كتطبيق هاتف افتراضي</string>
+    <string name="theme_original_classic">الكلاسيكي الأصلي</string>
+    <string name="theme_modern_classic">الكلاسيكي الحديث</string>
+    <string name="theme_pixel">Pixel</string>
+    <string name="active_call_channel_desc">يعرض المكالمة الجارية وعناصر التحكم السريعة</string>
+    <string name="incoming_calls_channel_name">المكالمات الواردة</string>
+    <string name="incoming_calls_channel_desc">إشعار منبثق للمكالمات الواردة</string>
+    <string name="failed_to_send_message">فشل إرسال الرسالة</string>
+</resources>

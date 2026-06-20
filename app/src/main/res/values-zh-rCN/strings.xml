@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeno Classic Dialer</string>
+    <string name="accessibility_description">允许工具栏上的拨号和挂断按钮拨打电话号码并关闭拨号盘。</string>
+
+    <!-- Tabs -->
+    <string name="tab_calls">通话</string>
+    <string name="tab_contacts">联系人</string>
+    <string name="tab_dial_pad">拨号盘</string>
+    <string name="tab_favorites">收藏</string>
+    <string name="tab_home">主页</string>
+    <string name="tab_keypad">键盘</string>
+
+    <!-- Main UI -->
+    <string name="search_contacts">搜索联系人</string>
+    <string name="no_contacts">无联系人</string>
+    <string name="no_history">无历史记录</string>
+    <string name="no_results">无结果</string>
+    <string name="recent_empty_hint">您最近的通话和联系人将显示在这里</string>
+    <string name="clear">清除</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="ok">确定</string>
+    <string name="pasted">已粘贴</string>
+    <string name="nothing_to_paste">无可粘贴内容</string>
+    <string name="copied">已复制</string>
+    <string name="menu">菜单</string>
+    <string name="voice_search">语音搜索</string>
+    <string name="voice_search_prompt">搜索联系人…</string>
+
+    <!-- Call Log / History -->
+    <string name="filter_all">全部</string>
+    <string name="filter_missed">未接</string>
+    <string name="filter_received">已接</string>
+    <string name="filter_contacts">联系人</string>
+    <string name="filter_recents">最近</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="just_now">刚刚</string>
+    <string name="min_ago">%1$d分钟前</string>
+    <string name="hr_ago">%1$d小时前</string>
+    <string name="days_ago">%1$d天前</string>
+    <string name="m_ago">%1$dm前</string>
+    <string name="h_ago">%1$dh前</string>
+    <string name="d_ago">%1$dd前</string>
+
+    <!-- Call Actions -->
+    <string name="call">拨打</string>
+    <string name="message">短信</string>
+    <string name="history">历史</string>
+    <string name="edit_contact">编辑联系人</string>
+    <string name="add_to_contacts">添加到联系人</string>
+    <string name="add_to_favorites">添加到收藏</string>
+    <string name="remove_from_blocked">从黑名单移除</string>
+    <string name="add_to_blocked">添加到黑名单</string>
+    <string name="copy_number">复制号码</string>
+    <string name="view_call_history">查看通话记录</string>
+    <string name="delete_from_log">从记录中删除</string>
+    <string name="delete_log_confirm_title">删除通话记录？</string>
+    <string name="delete_log_confirm_msg">%1$s 的所有通话记录将被永久删除。</string>
+    <string name="see_more_in_history">在历史中查看更多</string>
+
+    <!-- Favorites -->
+    <string name="pinned">已置顶</string>
+    <string name="suggestions">建议</string>
+    <string name="no_suggestions">暂无建议</string>
+    <string name="pin_hint">长按下方联系人将其固定于此</string>
+    <string name="pin">固定</string>
+    <string name="unpin">取消固定</string>
+
+    <!-- Dialpad -->
+    <string name="enter_number">输入号码</string>
+    <string name="add_contact">添加联系人</string>
+    <string name="backspace">退格</string>
+    <string name="dialpad_paste">粘贴</string>
+    <string name="dialpad_paste_hint">从剪贴板</string>
+    <string name="dialpad_copy_hint">输入框中的号码</string>
+    <string name="dialpad_number_bar_a11y">号码输入；长按粘贴或复制</string>
+
+    <!-- In-Call -->
+    <string name="answer">接听</string>
+    <string name="decline">拒绝</string>
+    <string name="end">结束</string>
+    <string name="end_call">挂断</string>
+    <string name="speaker">扬声器</string>
+    <string name="mute">静音</string>
+    <string name="dial_pad">拨号盘</string>
+    <string name="hold">保持</string>
+    <string name="unhold">取消保持</string>
+    <string name="record">录音</string>
+    <string name="add_a_call">添加通话</string>
+    <string name="active_call">通话中</string>
+    <string name="on_hold">保持中</string>
+    <string name="calling">正在拨号…</string>
+    <string name="in_call">通话中</string>
+    <string name="incoming_call">来电</string>
+    <string name="missed_call">未接来电</string>
+    <string name="outgoing_call">去电</string>
+    <string name="blocked_call">已拦截来电</string>
+    <string name="rejected_call">已拒接来电</string>
+    <string name="connecting">正在连接…</string>
+    <string name="call_ended">通话已结束</string>
+    <string name="ending">正在结束…</string>
+    <string name="switch_call">切换通话</string>
+    <string name="recording_started">录音已开始 — 已开启扬声器以录制双方声音</string>
+    <string name="recording_saved">录音已保存</string>
+    <string name="recording_error">录音已结束（文件太短或出错）</string>
+    <string name="could_not_start_recording">无法开始录音</string>
+    <string name="mic_permission_required">录音需要麦克风权限</string>
+    <string name="sms_permission_required">快速回复需要短信权限</string>
+    <string name="message_sent">消息已发送</string>
+    <string name="quick_reply_templates">快速回复模板</string>
+    <string name="write_your_own">自定义…</string>
+    <string name="send_message_to">发送消息给</string>
+
+    <!-- Settings -->
+    <string name="settings">设置</string>
+    <string name="call_assist">通话助手</string>
+    <string name="caller_id_spam">来电显示 &amp; 垃圾电话</string>
+    <string name="general">常规</string>
+    <string name="accessibility">无障碍</string>
+    <string name="assisted_dialing">辅助拨号</string>
+    <string name="blocked_numbers">黑名单</string>
+    <string name="calls">通话</string>
+    <string name="display_options">显示选项</string>
+    <string name="quick_reply_templates_title">快速回复模板</string>
+    <string name="sounds_vibration">声音和振动</string>
+    <string name="voicemail">语音信箱</string>
+    <string name="contact_ringtones">联系人铃声</string>
+    <string name="calling_card">名片</string>
+    <string name="advanced">高级</string>
+    <string name="caller_id_announcement">来电显示播报</string>
+    <string name="flip_to_silence">翻转静音</string>
+    <string name="about">关于</string>
+    <string name="about_app">关于 Zeno Classic Dialer</string>
+    <string name="version_label">版本 %1$s</string>
+    <string name="clear_history">清除通话记录</string>
+    <string name="clear_history_confirm_title">清除通话记录？</string>
+    <string name="clear_history_confirm_msg">所有通话记录条目将被永久删除。</string>
+    <string name="see_caller_spam_id">查看来电和垃圾号码识别</string>
+    <string name="see_caller_spam_id_desc">识别商业和垃圾号码</string>
+    <string name="filter_spam">过滤垃圾电话</string>
+    <string name="filter_spam_desc">防止可疑垃圾电话打扰您</string>
+    <string name="caller_id_spam_info">当您拨打或接听电话时，Zeno Classic Dialer 将尝试为您显示有用信息，例如不在联系人中的号码名称，或来电疑似垃圾电话时的警告。</string>
+    <string name="default_home_country">默认归属地</string>
+    <string name="auto_detected">自动检测</string>
+    <string name="assisted_dialing_info">辅助拨号可在您出境时预测并添加国家/地区代码。</string>
+    <string name="send_responses_instantly">立即发送快速回复</string>
+    <string name="send_responses_instantly_desc">关闭时，将打开预填文本的短信应用</string>
+    <string name="appearance">外观</string>
+    <string name="choose_theme">选择主题</string>
+    <string name="controls">控制</string>
+    <string name="keep_portrait">通话时保持竖屏模式</string>
+    <string name="keep_portrait_desc">防止通话期间意外自动旋转</string>
+    <string name="flip_to_silence_desc">要静音来电，请将设备屏幕朝下放在平面上</string>
+    <string name="announce_caller_id">播报来电显示</string>
+    <string name="never">从不</string>
+    <string name="always">始终</string>
+    <string name="headset_only">仅使用耳机时</string>
+    <string name="caller_id_announcement_info">来电时将朗读来电者的姓名和号码。</string>
+    <string name="notifications">通知</string>
+    <string name="visual_voicemail">可视化语音信箱</string>
+    <string name="visual_voicemail_desc">运营商可能不支持可视化语音信箱</string>
+    <string name="advanced_settings">高级设置</string>
+    <string name="contact_ringtones_desc">为个别联系人添加自定义铃声，以便识别来电者。要管理设备的默认铃声，请访问设置。</string>
+    <string name="add_contact_ringtone">添加联系人铃声</string>
+    <string name="your_calling_card">我的名片</string>
+    <string name="your_calling_card_desc">拨打或接听电话时，其他人看到的您的信息</string>
+    <string name="create">创建</string>
+    <string name="contact_calling_card">联系人名片</string>
+    <string name="contact_calling_card_desc">联系人来电时显示的姓名和图片</string>
+    <string name="back">返回</string>
+    <string name="more">更多</string>
+    <string name="mobile">手机</string>
+    <string name="work">工作</string>
+
+    <!-- Permissions / Prompts -->
+    <string name="phone_permission_required">需要电话权限</string>
+    <string name="telecom_failed">电话服务失败 (%1$s)，尝试 ACTION_CALL</string>
+    <string name="fallback_failed">备用方案失败：%1$s</string>
+    <string name="could_not_open_contact">无法打开联系人：%1$s</string>
+    <string name="enable_toolbar_buttons">启用工具栏按钮</string>
+    <string name="accessibility_prompt_msg">允许 Zeno Classic Dialer 使用键盘工具栏上的拨号和挂断硬件按钮。\n\n在列表中找到"Zeno Classic Dialer"并启用它。</string>
+    <string name="open_settings">打开设置</string>
+    <string name="not_now">稍后</string>
+    <string name="set_as_default_hint">点击设为默认电话应用</string>
+    <string name="theme_original_classic">经典原版</string>
+    <string name="theme_modern_classic">现代经典</string>
+    <string name="theme_pixel">Pixel</string>
+    <string name="active_call_channel_desc">显示进行中的通话和快速控制</string>
+    <string name="incoming_calls_channel_name">来电</string>
+    <string name="incoming_calls_channel_desc">来电弹出通知</string>
+    <string name="failed_to_send_message">消息发送失败</string>
+</resources>

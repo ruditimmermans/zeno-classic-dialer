@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeno Classic Dialer</string>
+    <string name="accessibility_description">टूलबार के कॉल और एंड बटन को नंबर डायल करने और डायलर बंद करने की अनुमति देता है।</string>
+
+    <!-- Tabs -->
+    <string name="tab_calls">कॉल</string>
+    <string name="tab_contacts">संपर्क</string>
+    <string name="tab_dial_pad">डायल पैड</string>
+    <string name="tab_favorites">पसंदीदा</string>
+    <string name="tab_home">होम</string>
+    <string name="tab_keypad">कीपैड</string>
+
+    <!-- Main UI -->
+    <string name="search_contacts">संपर्क खोजें</string>
+    <string name="no_contacts">कोई संपर्क नहीं</string>
+    <string name="no_history">कोई इतिहास नहीं</string>
+    <string name="no_results">कोई परिणाम नहीं</string>
+    <string name="recent_empty_hint">आपके हालिया कॉल और संपर्क यहाँ दिखेंगे</string>
+    <string name="clear">साफ़ करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="delete">हटाएँ</string>
+    <string name="ok">ठीक है</string>
+    <string name="pasted">चिपकाया गया</string>
+    <string name="nothing_to_paste">चिपकाने के लिए कुछ नहीं</string>
+    <string name="copied">कॉपी किया गया</string>
+    <string name="menu">मेनू</string>
+    <string name="voice_search">आवाज़ से खोजें</string>
+    <string name="voice_search_prompt">संपर्क खोजें…</string>
+
+    <!-- Call Log / History -->
+    <string name="filter_all">सभी</string>
+    <string name="filter_missed">छूटे हुए</string>
+    <string name="filter_received">प्राप्त</string>
+    <string name="filter_contacts">संपर्क</string>
+    <string name="filter_recents">हालिया</string>
+    <string name="today">आज</string>
+    <string name="yesterday">कल</string>
+    <string name="just_now">अभी</string>
+    <string name="min_ago">%1$d मिनट पहले</string>
+    <string name="hr_ago">%1$d घंटे पहले</string>
+    <string name="days_ago">%1$d दिन पहले</string>
+    <string name="m_ago">%1$d मि.</string>
+    <string name="h_ago">%1$d घं.</string>
+    <string name="d_ago">%1$d दि.</string>
+
+    <!-- Call Actions -->
+    <string name="call">कॉल</string>
+    <string name="message">संदेश</string>
+    <string name="history">इतिहास</string>
+    <string name="edit_contact">संपर्क संपादित करें</string>
+    <string name="add_to_contacts">संपर्कों में जोड़ें</string>
+    <string name="add_to_favorites">पसंदीदा में जोड़ें</string>
+    <string name="remove_from_blocked">ब्लॉक सूची से हटाएँ</string>
+    <string name="add_to_blocked">ब्लॉक सूची में जोड़ें</string>
+    <string name="copy_number">नंबर कॉपी करें</string>
+    <string name="view_call_history">कॉल इतिहास देखें</string>
+    <string name="delete_from_log">लॉग से हटाएँ</string>
+    <string name="delete_log_confirm_title">कॉल लॉग हटाएँ?</string>
+    <string name="delete_log_confirm_msg">%1$s का सभी कॉल इतिहास स्थायी रूप से हटा दिया जाएगा।</string>
+    <string name="see_more_in_history">इतिहास में और देखें</string>
+
+    <!-- Favorites -->
+    <string name="pinned">पिन किए गए</string>
+    <string name="suggestions">सुझाव</string>
+    <string name="no_suggestions">अभी तक कोई सुझाव नहीं</string>
+    <string name="pin_hint">यहाँ पिन करने के लिए नीचे किसी संपर्क को देर तक दबाएँ</string>
+    <string name="pin">पिन करें</string>
+    <string name="unpin">अनपिन करें</string>
+
+    <!-- Dialpad -->
+    <string name="enter_number">नंबर दर्ज करें</string>
+    <string name="add_contact">संपर्क जोड़ें</string>
+    <string name="backspace">बैकस्पेस</string>
+    <string name="dialpad_paste">चिपकाएँ</string>
+    <string name="dialpad_paste_hint">क्लिपबोर्ड से</string>
+    <string name="dialpad_copy_hint">फ़ील्ड में नंबर</string>
+    <string name="dialpad_number_bar_a11y">नंबर प्रविष्टि; चिपकाने या कॉपी करने के लिए देर तक दबाएँ</string>
+
+    <!-- In-Call -->
+    <string name="answer">उठाएँ</string>
+    <string name="decline">अस्वीकार करें</string>
+    <string name="end">समाप्त</string>
+    <string name="end_call">कॉल समाप्त करें</string>
+    <string name="speaker">स्पीकर</string>
+    <string name="mute">म्यूट</string>
+    <string name="dial_pad">डायल पैड</string>
+    <string name="hold">होल्ड</string>
+    <string name="unhold">अनहोल्ड</string>
+    <string name="record">रिकॉर्ड</string>
+    <string name="add_a_call">कॉल जोड़ें</string>
+    <string name="active_call">सक्रिय कॉल</string>
+    <string name="on_hold">होल्ड पर</string>
+    <string name="calling">कॉल हो रहा है…</string>
+    <string name="in_call">कॉल में</string>
+    <string name="incoming_call">आने वाली कॉल</string>
+    <string name="missed_call">छूटी हुई कॉल</string>
+    <string name="outgoing_call">जाने वाली कॉल</string>
+    <string name="blocked_call">ब्लॉक की गई कॉल</string>
+    <string name="rejected_call">अस्वीकृत कॉल</string>
+    <string name="connecting">कनेक्ट हो रहा है…</string>
+    <string name="call_ended">कॉल समाप्त</string>
+    <string name="ending">समाप्त हो रहा है…</string>
+    <string name="switch_call">कॉल बदलें</string>
+    <string name="recording_started">रिकॉर्डिंग शुरू हुई — दोनों पक्षों को कैप्चर करने के लिए स्पीकर चालू किया गया</string>
+    <string name="recording_saved">रिकॉर्डिंग सहेजी गई</string>
+    <string name="recording_error">रिकॉर्डिंग समाप्त हुई (फ़ाइल बहुत छोटी या त्रुटि)</string>
+    <string name="could_not_start_recording">रिकॉर्डिंग शुरू नहीं हो सकी</string>
+    <string name="mic_permission_required">रिकॉर्डिंग के लिए माइक्रोफ़ोन अनुमति आवश्यक है</string>
+    <string name="sms_permission_required">त्वरित उत्तर के लिए SMS अनुमति आवश्यक है</string>
+    <string name="message_sent">संदेश भेज दिया गया</string>
+    <string name="quick_reply_templates">त्वरित उत्तर टेम्पलेट</string>
+    <string name="write_your_own">अपना लिखें…</string>
+    <string name="send_message_to">को संदेश भेजें</string>
+
+    <!-- Settings -->
+    <string name="settings">सेटिंग</string>
+    <string name="call_assist">कॉल असिस्ट</string>
+    <string name="caller_id_spam">कॉलर आईडी &amp; स्पैम</string>
+    <string name="general">सामान्य</string>
+    <string name="accessibility">पहुँच क्षमता</string>
+    <string name="assisted_dialing">सहायक डायलिंग</string>
+    <string name="blocked_numbers">अवरुद्ध नंबर</string>
+    <string name="calls">कॉल</string>
+    <string name="display_options">प्रदर्शन विकल्प</string>
+    <string name="quick_reply_templates_title">त्वरित उत्तर टेम्पलेट</string>
+    <string name="sounds_vibration">ध्वनि और कंपन</string>
+    <string name="voicemail">वॉइसमेल</string>
+    <string name="contact_ringtones">संपर्क रिंगटोन</string>
+    <string name="calling_card">कॉलिंग कार्ड</string>
+    <string name="advanced">उन्नत</string>
+    <string name="caller_id_announcement">कॉलर आईडी घोषणा</string>
+    <string name="flip_to_silence">साइलेंट के लिए पलटें</string>
+    <string name="about">के बारे में</string>
+    <string name="about_app">Zeno Classic Dialer के बारे में</string>
+    <string name="version_label">संस्करण %1$s</string>
+    <string name="clear_history">कॉल इतिहास साफ़ करें</string>
+    <string name="clear_history_confirm_title">कॉल इतिहास साफ़ करें?</string>
+    <string name="clear_history_confirm_msg">सभी कॉल लॉग प्रविष्टियाँ स्थायी रूप से हटा दी जाएंगी।</string>
+    <string name="see_caller_spam_id">कॉलर और स्पैम आईडी देखें</string>
+    <string name="see_caller_spam_id_desc">व्यावसायिक और स्पैम नंबर पहचानें</string>
+    <string name="filter_spam">स्पैम कॉल फ़िल्टर करें</string>
+    <string name="filter_spam_desc">संदिग्ध स्पैम कॉल को आपको परेशान करने से रोकें</string>
+    <string name="caller_id_spam_info">Zeno Classic Dialer कॉल करते या प्राप्त करते समय उपयोगी जानकारी दिखाने का प्रयास करेगा, जैसे संपर्कों में नहीं होने वाले नंबर का नाम, या आने वाली कॉल के स्पैम होने का संदेह होने पर चेतावनी।</string>
+    <string name="default_home_country">डिफ़ॉल्ट गृह देश</string>
+    <string name="auto_detected">स्वतः पहचाना गया</string>
+    <string name="assisted_dialing_info">सहायक डायलिंग विदेश यात्रा के दौरान कॉल करते समय देश कोड का अनुमान लगाकर जोड़ती है।</string>
+    <string name="send_responses_instantly">त्वरित उत्तर तुरंत भेजें</string>
+    <string name="send_responses_instantly_desc">बंद होने पर, पूर्व-भरे पाठ के साथ SMS ऐप खोलता है</string>
+    <string name="appearance">दिखावट</string>
+    <string name="choose_theme">थीम चुनें</string>
+    <string name="controls">नियंत्रण</string>
+    <string name="keep_portrait">कॉल के दौरान पोर्ट्रेट मोड बनाए रखें</string>
+    <string name="keep_portrait_desc">कॉल के दौरान आकस्मिक स्वतः-घुमाव रोकता है</string>
+    <string name="flip_to_silence_desc">आने वाली कॉल को साइलेंट करने के लिए, डिवाइस को किसी समतल सतह पर स्क्रीन नीचे करके रखें</string>
+    <string name="announce_caller_id">कॉलर आईडी घोषित करें</string>
+    <string name="never">कभी नहीं</string>
+    <string name="always">हमेशा</string>
+    <string name="headset_only">केवल हेडसेट उपयोग में होने पर</string>
+    <string name="caller_id_announcement_info">आने वाली कॉल के लिए कॉलर का नाम और नंबर ज़ोर से पढ़ा जाएगा।</string>
+    <string name="notifications">सूचनाएँ</string>
+    <string name="visual_voicemail">विज़ुअल वॉइसमेल</string>
+    <string name="visual_voicemail_desc">वाहक विज़ुअल वॉइसमेल का समर्थन नहीं कर सकता</string>
+    <string name="advanced_settings">उन्नत सेटिंग</string>
+    <string name="contact_ringtones_desc">यह जानने के लिए कि कौन कॉल कर रहा है, व्यक्तिगत संपर्कों में कस्टम रिंगटोन जोड़ें। डिफ़ॉल्ट रिंगटोन प्रबंधित करने के लिए सेटिंग पर जाएँ।</string>
+    <string name="add_contact_ringtone">संपर्क रिंगटोन जोड़ें</string>
+    <string name="your_calling_card">आपका कॉलिंग कार्ड</string>
+    <string name="your_calling_card_desc">कॉल करते या प्राप्त करते समय दूसरों को आप कैसे दिखेंगे</string>
+    <string name="create">बनाएँ</string>
+    <string name="contact_calling_card">संपर्क का कॉलिंग कार्ड</string>
+    <string name="contact_calling_card_desc">जब संपर्क कॉल करे तो आप उनका नाम और चित्र कैसे देखते हैं</string>
+    <string name="back">वापस</string>
+    <string name="more">और</string>
+    <string name="mobile">मोबाइल</string>
+    <string name="work">कार्य</string>
+
+    <!-- Permissions / Prompts -->
+    <string name="phone_permission_required">फ़ोन अनुमति आवश्यक है</string>
+    <string name="telecom_failed">Telecom विफल (%1$s), ACTION_CALL प्रयास कर रहा है</string>
+    <string name="fallback_failed">फ़ॉलबैक विफल: %1$s</string>
+    <string name="could_not_open_contact">संपर्क नहीं खोल सका: %1$s</string>
+    <string name="enable_toolbar_buttons">टूलबार बटन सक्षम करें</string>
+    <string name="accessibility_prompt_msg">Zeno Classic Dialer को कीबोर्ड टूलबार पर कॉल और एंड हार्डवेयर बटन उपयोग करने दें।\n\nसूची में \"Zeno Classic Dialer\" खोजें और इसे सक्षम करें।</string>
+    <string name="open_settings">सेटिंग खोलें</string>
+    <string name="not_now">अभी नहीं</string>
+    <string name="set_as_default_hint">डिफ़ॉल्ट फ़ोन ऐप के रूप में सेट करने के लिए टैप करें</string>
+    <string name="theme_original_classic">ओरिजिनल क्लासिक</string>
+    <string name="theme_modern_classic">मॉडर्न क्लासिक</string>
+    <string name="theme_pixel">Pixel</string>
+    <string name="active_call_channel_desc">चल रही कॉल और त्वरित नियंत्रण दिखाता है</string>
+    <string name="incoming_calls_channel_name">आने वाली कॉल</string>
+    <string name="incoming_calls_channel_desc">आने वाली कॉल के लिए हेड्स-अप सूचना</string>
+    <string name="failed_to_send_message">संदेश भेजने में विफल</string>
+</resources>

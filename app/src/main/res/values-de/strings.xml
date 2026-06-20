@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeno Classic Dialer</string>
+    <string name="accessibility_description">Ermöglicht den Anruf- und Ende-Tasten der Symbolleiste, Nummern zu wählen und den Dialer zu schließen.</string>
+
+    <!-- Tabs -->
+    <string name="tab_calls">Anrufe</string>
+    <string name="tab_contacts">Kontakte</string>
+    <string name="tab_dial_pad">Wähltastatur</string>
+    <string name="tab_favorites">Favoriten</string>
+    <string name="tab_home">Startseite</string>
+    <string name="tab_keypad">Tastatur</string>
+
+    <!-- Main UI -->
+    <string name="search_contacts">Kontakte suchen</string>
+    <string name="no_contacts">Keine Kontakte</string>
+    <string name="no_history">Kein Verlauf</string>
+    <string name="no_results">Keine Ergebnisse</string>
+    <string name="recent_empty_hint">Ihre letzten Anrufe und Kontakte erscheinen hier</string>
+    <string name="clear">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="delete">Entfernen</string>
+    <string name="ok">OK</string>
+    <string name="pasted">Eingefügt</string>
+    <string name="nothing_to_paste">Nichts zum Einfügen</string>
+    <string name="copied">Kopiert</string>
+    <string name="menu">Menü</string>
+    <string name="voice_search">Sprachsuche</string>
+    <string name="voice_search_prompt">Kontakte suchen…</string>
+
+    <!-- Call Log / History -->
+    <string name="filter_all">Alle</string>
+    <string name="filter_missed">Verpasst</string>
+    <string name="filter_received">Empfangen</string>
+    <string name="filter_contacts">Kontakte</string>
+    <string name="filter_recents">Zuletzt</string>
+    <string name="today">Heute</string>
+    <string name="yesterday">Gestern</string>
+    <string name="just_now">Gerade eben</string>
+    <string name="min_ago">vor %1$d Min.</string>
+    <string name="hr_ago">vor %1$d Std.</string>
+    <string name="days_ago">vor %1$d Tagen</string>
+    <string name="m_ago">%1$dm</string>
+    <string name="h_ago">%1$dh</string>
+    <string name="d_ago">%1$dd</string>
+
+    <!-- Call Actions -->
+    <string name="call">Anrufen</string>
+    <string name="message">Nachricht</string>
+    <string name="history">Verlauf</string>
+    <string name="edit_contact">Kontakt bearbeiten</string>
+    <string name="add_to_contacts">Zu Kontakten hinzufügen</string>
+    <string name="add_to_favorites">Zu Favoriten hinzufügen</string>
+    <string name="remove_from_blocked">Aus Sperrliste entfernen</string>
+    <string name="add_to_blocked">Zur Sperrliste hinzufügen</string>
+    <string name="copy_number">Nummer kopieren</string>
+    <string name="view_call_history">Anrufverlauf anzeigen</string>
+    <string name="delete_from_log">Aus dem Verlauf löschen</string>
+    <string name="delete_log_confirm_title">Anrufprotokoll löschen?</string>
+    <string name="delete_log_confirm_msg">Der gesamte Anrufverlauf für %1$s wird dauerhaft gelöscht.</string>
+    <string name="see_more_in_history">Mehr im Verlauf anzeigen</string>
+
+    <!-- Favorites -->
+    <string name="pinned">Angeheftet</string>
+    <string name="suggestions">Vorschläge</string>
+    <string name="no_suggestions">Noch keine Vorschläge</string>
+    <string name="pin_hint">Kontakt gedrückt halten, um ihn hier anzuheften</string>
+    <string name="pin">Anheften</string>
+    <string name="unpin">Loslösen</string>
+
+    <!-- Dialpad -->
+    <string name="enter_number">Nummer eingeben</string>
+    <string name="add_contact">Kontakt hinzufügen</string>
+    <string name="backspace">Rücktaste</string>
+    <string name="dialpad_paste">Einfügen</string>
+    <string name="dialpad_paste_hint">Aus Zwischenablage</string>
+    <string name="dialpad_copy_hint">Nummer im Feld</string>
+    <string name="dialpad_number_bar_a11y">Nummereingabe; gedrückt halten zum Einfügen oder Kopieren</string>
+
+    <!-- In-Call -->
+    <string name="answer">Annehmen</string>
+    <string name="decline">Ablehnen</string>
+    <string name="end">Beenden</string>
+    <string name="end_call">Anruf beenden</string>
+    <string name="speaker">Lautsprecher</string>
+    <string name="mute">Stummschalten</string>
+    <string name="dial_pad">Wähltastatur</string>
+    <string name="hold">Halten</string>
+    <string name="unhold">Fortsetzen</string>
+    <string name="record">Aufnehmen</string>
+    <string name="add_a_call">Anruf hinzufügen</string>
+    <string name="active_call">Aktiver Anruf</string>
+    <string name="on_hold">Gehalten</string>
+    <string name="calling">Wird angerufen…</string>
+    <string name="in_call">Im Gespräch</string>
+    <string name="incoming_call">Eingehender Anruf</string>
+    <string name="missed_call">Verpasster Anruf</string>
+    <string name="outgoing_call">Ausgehender Anruf</string>
+    <string name="blocked_call">Gesperrter Anruf</string>
+    <string name="rejected_call">Abgelehnter Anruf</string>
+    <string name="connecting">Verbinden…</string>
+    <string name="call_ended">Anruf beendet</string>
+    <string name="ending">Beenden…</string>
+    <string name="switch_call">Anruf wechseln</string>
+    <string name="recording_started">Aufnahme gestartet — Lautsprecher aktiviert, um beide Seiten aufzunehmen</string>
+    <string name="recording_saved">Aufnahme gespeichert</string>
+    <string name="recording_error">Aufnahme beendet (Datei zu kurz oder Fehler)</string>
+    <string name="could_not_start_recording">Aufnahme konnte nicht gestartet werden</string>
+    <string name="mic_permission_required">Mikrofonberechtigung für die Aufnahme erforderlich</string>
+    <string name="sms_permission_required">SMS-Berechtigung für Schnellantwort erforderlich</string>
+    <string name="message_sent">Nachricht gesendet</string>
+    <string name="quick_reply_templates">Schnellantworttemplates</string>
+    <string name="write_your_own">Eigene schreiben…</string>
+    <string name="send_message_to">Nachricht senden an</string>
+
+    <!-- Settings -->
+    <string name="settings">Einstellungen</string>
+    <string name="call_assist">Anrufassistent</string>
+    <string name="caller_id_spam">Anruferkennung &amp; Spam</string>
+    <string name="general">Allgemein</string>
+    <string name="accessibility">Zugänglichkeit</string>
+    <string name="assisted_dialing">Unterstütztes Wählen</string>
+    <string name="blocked_numbers">Gesperrte Nummern</string>
+    <string name="calls">Anrufe</string>
+    <string name="display_options">Anzeigeoptionen</string>
+    <string name="quick_reply_templates_title">Schnellantworttemplates</string>
+    <string name="sounds_vibration">Töne und Vibration</string>
+    <string name="voicemail">Voicemail</string>
+    <string name="contact_ringtones">Kontaktklingeltöne</string>
+    <string name="calling_card">Visitenkarte</string>
+    <string name="advanced">Erweitert</string>
+    <string name="caller_id_announcement">Anruferkennung-Ansage</string>
+    <string name="flip_to_silence">Umdrehen zum Stummschalten</string>
+    <string name="about">Über</string>
+    <string name="about_app">Über Zeno Classic Dialer</string>
+    <string name="version_label">Version %1$s</string>
+    <string name="clear_history">Anrufverlauf löschen</string>
+    <string name="clear_history_confirm_title">Anrufverlauf löschen?</string>
+    <string name="clear_history_confirm_msg">Alle Einträge im Anrufprotokoll werden dauerhaft gelöscht.</string>
+    <string name="see_caller_spam_id">Anrufer- und Spam-ID anzeigen</string>
+    <string name="see_caller_spam_id_desc">Geschäfts- und Spam-Nummern identifizieren</string>
+    <string name="filter_spam">Spam-Anrufe filtern</string>
+    <string name="filter_spam_desc">Verhindert, dass verdächtige Spam-Anrufe Sie stören</string>
+    <string name="caller_id_spam_info">Zeno Classic Dialer versucht, Ihnen nützliche Informationen anzuzeigen, wenn Sie einen Anruf tätigen oder empfangen, z. B. den Namen einer Nummer, die nicht in Ihren Kontakten ist, oder eine Warnung, wenn ein eingehender Anruf als Spam verdächtig ist.</string>
+    <string name="default_home_country">Standard-Heimatland</string>
+    <string name="auto_detected">Automatisch erkannt</string>
+    <string name="assisted_dialing_info">Das unterstützte Wählen sagt voraus und fügt eine Landesvorwahl hinzu, wenn Sie im Ausland anrufen.</string>
+    <string name="send_responses_instantly">Schnellantworten sofort senden</string>
+    <string name="send_responses_instantly_desc">Wenn deaktiviert, öffnet sich Ihre SMS-App mit vorausgefülltem Text</string>
+    <string name="appearance">Erscheinungsbild</string>
+    <string name="choose_theme">Design wählen</string>
+    <string name="controls">Steuerung</string>
+    <string name="keep_portrait">Hochformatmodus bei Anrufen beibehalten</string>
+    <string name="keep_portrait_desc">Verhindert versehentliche automatische Drehung bei einem Anruf</string>
+    <string name="flip_to_silence_desc">Um einen eingehenden Anruf zu stummschalten, legen Sie das Gerät mit dem Bildschirm nach unten auf eine flache Oberfläche</string>
+    <string name="announce_caller_id">Anruferkennung ansagen</string>
+    <string name="never">Nie</string>
+    <string name="always">Immer</string>
+    <string name="headset_only">Nur mit Headset</string>
+    <string name="caller_id_announcement_info">Name und Nummer des Anrufers werden für eingehende Anrufe laut vorgelesen.</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="visual_voicemail">Visuelle Voicemail</string>
+    <string name="visual_voicemail_desc">Der Anbieter unterstützt möglicherweise keine visuelle Voicemail</string>
+    <string name="advanced_settings">Erweiterte Einstellungen</string>
+    <string name="contact_ringtones_desc">Fügen Sie einzelnen Kontakten einen benutzerdefinierten Klingelton hinzu, um zu erkennen, wer anruft. Um den Standard-Klingelton zu verwalten, besuchen Sie Einstellungen.</string>
+    <string name="add_contact_ringtone">Kontaktklingelton hinzufügen</string>
+    <string name="your_calling_card">Ihre Visitenkarte</string>
+    <string name="your_calling_card_desc">Wie Sie anderen beim Tätigen oder Empfangen von Anrufen erscheinen</string>
+    <string name="create">Erstellen</string>
+    <string name="contact_calling_card">Visitenkarte des Kontakts</string>
+    <string name="contact_calling_card_desc">Wie Sie den Namen und das Bild Ihres Kontakts sehen, wenn er anruft</string>
+    <string name="back">Zurück</string>
+    <string name="more">Mehr</string>
+    <string name="mobile">Mobil</string>
+    <string name="work">Arbeit</string>
+
+    <!-- Permissions / Prompts -->
+    <string name="phone_permission_required">Telefonberechtigung erforderlich</string>
+    <string name="telecom_failed">Telecom fehlgeschlagen (%1$s), ACTION_CALL wird versucht</string>
+    <string name="fallback_failed">Fallback fehlgeschlagen: %1$s</string>
+    <string name="could_not_open_contact">Kontakt konnte nicht geöffnet werden: %1$s</string>
+    <string name="enable_toolbar_buttons">Symbolleistentasten aktivieren</string>
+    <string name="accessibility_prompt_msg">Erlauben Sie Zeno Classic Dialer die Verwendung der Anruf- und Ende-Hardware-Tasten auf Ihrer Tastatur-Symbolleiste.\n\nSuchen Sie \"Zeno Classic Dialer\" in der Liste und aktivieren Sie es.</string>
+    <string name="open_settings">Einstellungen öffnen</string>
+    <string name="not_now">Nicht jetzt</string>
+    <string name="set_as_default_hint">Tippen, um als Standard-Telefon-App festzulegen</string>
+    <string name="theme_original_classic">Original Klassisch</string>
+    <string name="theme_modern_classic">Modern Klassisch</string>
+    <string name="theme_pixel">Pixel</string>
+    <string name="active_call_channel_desc">Zeigt den laufenden Anruf und Schnellsteuerungen</string>
+    <string name="incoming_calls_channel_name">Eingehende Anrufe</string>
+    <string name="incoming_calls_channel_desc">Heads-up-Benachrichtigung für eingehende Anrufe</string>
+    <string name="failed_to_send_message">Nachricht konnte nicht gesendet werden</string>
+</resources>

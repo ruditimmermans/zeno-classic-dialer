@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeno Classic Dialer</string>
+    <string name="accessibility_description">Позволяет кнопкам «Вызов» и «Завершить» на панели инструментов набирать номера и закрывать набор номера.</string>
+
+    <!-- Tabs -->
+    <string name="tab_calls">Звонки</string>
+    <string name="tab_contacts">Контакты</string>
+    <string name="tab_dial_pad">Клавиатура</string>
+    <string name="tab_favorites">Избранное</string>
+    <string name="tab_home">Главная</string>
+    <string name="tab_keypad">Клавиатура</string>
+
+    <!-- Main UI -->
+    <string name="search_contacts">Поиск контактов</string>
+    <string name="no_contacts">Нет контактов</string>
+    <string name="no_history">Нет истории</string>
+    <string name="no_results">Нет результатов</string>
+    <string name="recent_empty_hint">Здесь появятся ваши недавние звонки и контакты</string>
+    <string name="clear">Очистить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="ok">ОК</string>
+    <string name="pasted">Вставлено</string>
+    <string name="nothing_to_paste">Нечего вставлять</string>
+    <string name="copied">Скопировано</string>
+    <string name="menu">Меню</string>
+    <string name="voice_search">Голосовой поиск</string>
+    <string name="voice_search_prompt">Поиск контактов…</string>
+
+    <!-- Call Log / History -->
+    <string name="filter_all">Все</string>
+    <string name="filter_missed">Пропущенные</string>
+    <string name="filter_received">Принятые</string>
+    <string name="filter_contacts">Контакты</string>
+    <string name="filter_recents">Недавние</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+    <string name="just_now">Только что</string>
+    <string name="min_ago">%1$d мин. назад</string>
+    <string name="hr_ago">%1$d ч. назад</string>
+    <string name="days_ago">%1$d дн. назад</string>
+    <string name="m_ago">%1$dм</string>
+    <string name="h_ago">%1$dч</string>
+    <string name="d_ago">%1$dд</string>
+
+    <!-- Call Actions -->
+    <string name="call">Позвонить</string>
+    <string name="message">Сообщение</string>
+    <string name="history">История</string>
+    <string name="edit_contact">Редактировать контакт</string>
+    <string name="add_to_contacts">Добавить в контакты</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_blocked">Удалить из заблокированных</string>
+    <string name="add_to_blocked">Добавить в заблокированные</string>
+    <string name="copy_number">Копировать номер</string>
+    <string name="view_call_history">Просмотреть историю звонков</string>
+    <string name="delete_from_log">Удалить из журнала</string>
+    <string name="delete_log_confirm_title">Удалить журнал звонков?</string>
+    <string name="delete_log_confirm_msg">Вся история звонков для %1$s будет удалена без возможности восстановления.</string>
+    <string name="see_more_in_history">Смотреть больше в истории</string>
+
+    <!-- Favorites -->
+    <string name="pinned">Закреплённые</string>
+    <string name="suggestions">Предложения</string>
+    <string name="no_suggestions">Пока нет предложений</string>
+    <string name="pin_hint">Нажмите и удерживайте контакт ниже, чтобы закрепить его здесь</string>
+    <string name="pin">Закрепить</string>
+    <string name="unpin">Открепить</string>
+
+    <!-- Dialpad -->
+    <string name="enter_number">Введите номер</string>
+    <string name="add_contact">Добавить контакт</string>
+    <string name="backspace">Backspace</string>
+    <string name="dialpad_paste">Вставить</string>
+    <string name="dialpad_paste_hint">Из буфера обмена</string>
+    <string name="dialpad_copy_hint">Номер в поле</string>
+    <string name="dialpad_number_bar_a11y">Ввод номера; долгое нажатие для вставки или копирования</string>
+
+    <!-- In-Call -->
+    <string name="answer">Ответить</string>
+    <string name="decline">Отклонить</string>
+    <string name="end">Завершить</string>
+    <string name="end_call">Завершить звонок</string>
+    <string name="speaker">Громкоговоритель</string>
+    <string name="mute">Без звука</string>
+    <string name="dial_pad">Клавиатура</string>
+    <string name="hold">Удержание</string>
+    <string name="unhold">Продолжить</string>
+    <string name="record">Запись</string>
+    <string name="add_a_call">Добавить звонок</string>
+    <string name="active_call">Активный звонок</string>
+    <string name="on_hold">Удержан</string>
+    <string name="calling">Вызов…</string>
+    <string name="in_call">В звонке</string>
+    <string name="incoming_call">Входящий звонок</string>
+    <string name="missed_call">Пропущенный звонок</string>
+    <string name="outgoing_call">Исходящий звонок</string>
+    <string name="blocked_call">Заблокированный звонок</string>
+    <string name="rejected_call">Отклонённый звонок</string>
+    <string name="connecting">Соединение…</string>
+    <string name="call_ended">Звонок завершён</string>
+    <string name="ending">Завершение…</string>
+    <string name="switch_call">Переключить звонок</string>
+    <string name="recording_started">Запись началась — включён громкоговоритель для захвата обеих сторон</string>
+    <string name="recording_saved">Запись сохранена</string>
+    <string name="recording_error">Запись завершена (файл слишком короткий или ошибка)</string>
+    <string name="could_not_start_recording">Не удалось начать запись</string>
+    <string name="mic_permission_required">Для записи требуется разрешение на использование микрофона</string>
+    <string name="sms_permission_required">Для быстрого ответа требуется разрешение SMS</string>
+    <string name="message_sent">Сообщение отправлено</string>
+    <string name="quick_reply_templates">Шаблоны быстрого ответа</string>
+    <string name="write_your_own">Написать своё…</string>
+    <string name="send_message_to">Отправить сообщение</string>
+
+    <!-- Settings -->
+    <string name="settings">Настройки</string>
+    <string name="call_assist">Помощник вызовов</string>
+    <string name="caller_id_spam">ID вызывающего &amp; спам</string>
+    <string name="general">Основное</string>
+    <string name="accessibility">Специальные возможности</string>
+    <string name="assisted_dialing">Автонабор</string>
+    <string name="blocked_numbers">Заблокированные номера</string>
+    <string name="calls">Звонки</string>
+    <string name="display_options">Параметры отображения</string>
+    <string name="quick_reply_templates_title">Шаблоны быстрого ответа</string>
+    <string name="sounds_vibration">Звуки и вибрация</string>
+    <string name="voicemail">Голосовая почта</string>
+    <string name="contact_ringtones">Рингтоны контактов</string>
+    <string name="calling_card">Визитная карточка</string>
+    <string name="advanced">Дополнительно</string>
+    <string name="caller_id_announcement">Объявление ID звонящего</string>
+    <string name="flip_to_silence">Перевернуть для отключения звука</string>
+    <string name="about">О приложении</string>
+    <string name="about_app">О Zeno Classic Dialer</string>
+    <string name="version_label">Версия %1$s</string>
+    <string name="clear_history">Очистить историю звонков</string>
+    <string name="clear_history_confirm_title">Очистить историю звонков?</string>
+    <string name="clear_history_confirm_msg">Все записи журнала звонков будут удалены без возможности восстановления.</string>
+    <string name="see_caller_spam_id">Показывать ID и спам звонящего</string>
+    <string name="see_caller_spam_id_desc">Определять бизнес-номера и спам</string>
+    <string name="filter_spam">Фильтровать спам-звонки</string>
+    <string name="filter_spam_desc">Предотвращать беспокойство от подозрительных спам-звонков</string>
+    <string name="caller_id_spam_info">Zeno Classic Dialer будет пытаться показывать вам полезную информацию при совершении или получении звонка, например имя номера, отсутствующего в контактах, или предупреждение о подозрительном спам-звонке.</string>
+    <string name="default_home_country">Страна по умолчанию</string>
+    <string name="auto_detected">Определяется автоматически</string>
+    <string name="assisted_dialing_info">Автонабор предсказывает и добавляет код страны при звонке за рубежом.</string>
+    <string name="send_responses_instantly">Отправлять быстрые ответы мгновенно</string>
+    <string name="send_responses_instantly_desc">Если отключено, открывает SMS-приложение с предзаполненным текстом</string>
+    <string name="appearance">Внешний вид</string>
+    <string name="choose_theme">Выбрать тему</string>
+    <string name="controls">Управление</string>
+    <string name="keep_portrait">Сохранять портретный режим во время звонков</string>
+    <string name="keep_portrait_desc">Предотвращает случайный автоповорот во время звонка</string>
+    <string name="flip_to_silence_desc">Для отключения звука входящего звонка положите устройство экраном вниз на ровную поверхность</string>
+    <string name="announce_caller_id">Объявлять ID звонящего</string>
+    <string name="never">Никогда</string>
+    <string name="always">Всегда</string>
+    <string name="headset_only">Только с гарнитурой</string>
+    <string name="caller_id_announcement_info">Имя и номер звонящего будут прочитаны вслух для входящих звонков.</string>
+    <string name="notifications">Уведомления</string>
+    <string name="visual_voicemail">Визуальная голосовая почта</string>
+    <string name="visual_voicemail_desc">Оператор может не поддерживать визуальную голосовую почту</string>
+    <string name="advanced_settings">Расширенные настройки</string>
+    <string name="contact_ringtones_desc">Добавьте рингтон к отдельным контактам, чтобы определять, кто звонит. Для управления стандартным рингтоном посетите Настройки.</string>
+    <string name="add_contact_ringtone">Добавить рингтон контакта</string>
+    <string name="your_calling_card">Ваша визитная карточка</string>
+    <string name="your_calling_card_desc">Как вас будут видеть другие при звонках</string>
+    <string name="create">Создать</string>
+    <string name="contact_calling_card">Визитная карточка контакта</string>
+    <string name="contact_calling_card_desc">Как вы видите имя и фото контакта при входящем звонке</string>
+    <string name="back">Назад</string>
+    <string name="more">Ещё</string>
+    <string name="mobile">Мобильный</string>
+    <string name="work">Работа</string>
+
+    <!-- Permissions / Prompts -->
+    <string name="phone_permission_required">Требуется разрешение на телефон</string>
+    <string name="telecom_failed">Сбой Telecom (%1$s), попытка ACTION_CALL</string>
+    <string name="fallback_failed">Резервный вариант не удался: %1$s</string>
+    <string name="could_not_open_contact">Не удалось открыть контакт: %1$s</string>
+    <string name="enable_toolbar_buttons">Включить кнопки панели инструментов</string>
+    <string name="accessibility_prompt_msg">Разрешите Zeno Classic Dialer использовать аппаратные кнопки «Вызов» и «Завершить» на панели инструментов клавиатуры.\n\nНайдите «Zeno Classic Dialer» в списке и включите.</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="not_now">Не сейчас</string>
+    <string name="set_as_default_hint">Нажмите, чтобы установить приложением телефона по умолчанию</string>
+    <string name="theme_original_classic">Классический оригинал</string>
+    <string name="theme_modern_classic">Современная классика</string>
+    <string name="theme_pixel">Pixel</string>
+    <string name="active_call_channel_desc">Отображает текущий звонок и быстрые элементы управления</string>
+    <string name="incoming_calls_channel_name">Входящие звонки</string>
+    <string name="incoming_calls_channel_desc">Уведомление для входящих звонков</string>
+    <string name="failed_to_send_message">Не удалось отправить сообщение</string>
+</resources>

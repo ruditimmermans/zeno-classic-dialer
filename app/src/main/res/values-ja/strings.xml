@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zeno Classic Dialer</string>
+    <string name="accessibility_description">ツールバーの通話ボタンと終了ボタンで番号のダイヤルとダイヤラーの終了を可能にします。</string>
+
+    <!-- Tabs -->
+    <string name="tab_calls">通話</string>
+    <string name="tab_contacts">連絡先</string>
+    <string name="tab_dial_pad">ダイヤルパッド</string>
+    <string name="tab_favorites">お気に入り</string>
+    <string name="tab_home">ホーム</string>
+    <string name="tab_keypad">キーパッド</string>
+
+    <!-- Main UI -->
+    <string name="search_contacts">連絡先を検索</string>
+    <string name="no_contacts">連絡先なし</string>
+    <string name="no_history">履歴なし</string>
+    <string name="no_results">結果なし</string>
+    <string name="recent_empty_hint">最近の通話と連絡先がここに表示されます</string>
+    <string name="clear">クリア</string>
+    <string name="cancel">キャンセル</string>
+    <string name="delete">削除</string>
+    <string name="ok">OK</string>
+    <string name="pasted">貼り付け済み</string>
+    <string name="nothing_to_paste">貼り付けるものがありません</string>
+    <string name="copied">コピー済み</string>
+    <string name="menu">メニュー</string>
+    <string name="voice_search">音声検索</string>
+    <string name="voice_search_prompt">連絡先を検索…</string>
+
+    <!-- Call Log / History -->
+    <string name="filter_all">すべて</string>
+    <string name="filter_missed">不在着信</string>
+    <string name="filter_received">受信</string>
+    <string name="filter_contacts">連絡先</string>
+    <string name="filter_recents">最近</string>
+    <string name="today">今日</string>
+    <string name="yesterday">昨日</string>
+    <string name="just_now">たった今</string>
+    <string name="min_ago">%1$d分前</string>
+    <string name="hr_ago">%1$d時間前</string>
+    <string name="days_ago">%1$d日前</string>
+    <string name="m_ago">%1$dm前</string>
+    <string name="h_ago">%1$dh前</string>
+    <string name="d_ago">%1$dd前</string>
+
+    <!-- Call Actions -->
+    <string name="call">通話</string>
+    <string name="message">メッセージ</string>
+    <string name="history">履歴</string>
+    <string name="edit_contact">連絡先を編集</string>
+    <string name="add_to_contacts">連絡先に追加</string>
+    <string name="add_to_favorites">お気に入りに追加</string>
+    <string name="remove_from_blocked">ブロックリストから削除</string>
+    <string name="add_to_blocked">ブロックリストに追加</string>
+    <string name="copy_number">番号をコピー</string>
+    <string name="view_call_history">通話履歴を表示</string>
+    <string name="delete_from_log">履歴から削除</string>
+    <string name="delete_log_confirm_title">通話ログを削除しますか？</string>
+    <string name="delete_log_confirm_msg">%1$s の通話履歴がすべて完全に削除されます。</string>
+    <string name="see_more_in_history">履歴でもっと見る</string>
+
+    <!-- Favorites -->
+    <string name="pinned">ピン留め</string>
+    <string name="suggestions">候補</string>
+    <string name="no_suggestions">まだ候補がありません</string>
+    <string name="pin_hint">下の連絡先を長押しするとここにピン留めできます</string>
+    <string name="pin">ピン留め</string>
+    <string name="unpin">ピン留め解除</string>
+
+    <!-- Dialpad -->
+    <string name="enter_number">番号を入力</string>
+    <string name="add_contact">連絡先を追加</string>
+    <string name="backspace">削除</string>
+    <string name="dialpad_paste">貼り付け</string>
+    <string name="dialpad_paste_hint">クリップボードから</string>
+    <string name="dialpad_copy_hint">フィールドの番号</string>
+    <string name="dialpad_number_bar_a11y">番号入力；長押しで貼り付けまたはコピー</string>
+
+    <!-- In-Call -->
+    <string name="answer">応答</string>
+    <string name="decline">拒否</string>
+    <string name="end">終了</string>
+    <string name="end_call">通話を終了</string>
+    <string name="speaker">スピーカー</string>
+    <string name="mute">ミュート</string>
+    <string name="dial_pad">ダイヤルパッド</string>
+    <string name="hold">保留</string>
+    <string name="unhold">保留解除</string>
+    <string name="record">録音</string>
+    <string name="add_a_call">通話を追加</string>
+    <string name="active_call">通話中</string>
+    <string name="on_hold">保留中</string>
+    <string name="calling">発信中…</string>
+    <string name="in_call">通話中</string>
+    <string name="incoming_call">着信</string>
+    <string name="missed_call">不在着信</string>
+    <string name="outgoing_call">発信通話</string>
+    <string name="blocked_call">ブロックされた通話</string>
+    <string name="rejected_call">拒否された通話</string>
+    <string name="connecting">接続中…</string>
+    <string name="call_ended">通話終了</string>
+    <string name="ending">終了中…</string>
+    <string name="switch_call">通話を切り替え</string>
+    <string name="recording_started">録音開始 — 両者を録音するためにスピーカーが有効になりました</string>
+    <string name="recording_saved">録音を保存しました</string>
+    <string name="recording_error">録音終了（ファイルが短すぎるかエラー）</string>
+    <string name="could_not_start_recording">録音を開始できませんでした</string>
+    <string name="mic_permission_required">録音にはマイクの権限が必要です</string>
+    <string name="sms_permission_required">クイック返信にはSMSの権限が必要です</string>
+    <string name="message_sent">メッセージを送信しました</string>
+    <string name="quick_reply_templates">クイック返信テンプレート</string>
+    <string name="write_your_own">自分で入力…</string>
+    <string name="send_message_to">メッセージを送信</string>
+
+    <!-- Settings -->
+    <string name="settings">設定</string>
+    <string name="call_assist">通話アシスト</string>
+    <string name="caller_id_spam">発信者情報 &amp; スパム</string>
+    <string name="general">一般</string>
+    <string name="accessibility">ユーザー補助</string>
+    <string name="assisted_dialing">アシストダイヤル</string>
+    <string name="blocked_numbers">ブロック番号</string>
+    <string name="calls">通話</string>
+    <string name="display_options">表示オプション</string>
+    <string name="quick_reply_templates_title">クイック返信テンプレート</string>
+    <string name="sounds_vibration">サウンドとバイブ</string>
+    <string name="voicemail">ボイスメール</string>
+    <string name="contact_ringtones">連絡先の着信音</string>
+    <string name="calling_card">名刺</string>
+    <string name="advanced">詳細設定</string>
+    <string name="caller_id_announcement">発信者IDのアナウンス</string>
+    <string name="flip_to_silence">裏返してサイレント</string>
+    <string name="about">アプリについて</string>
+    <string name="about_app">Zeno Classic Dialerについて</string>
+    <string name="version_label">バージョン %1$s</string>
+    <string name="clear_history">通話履歴を削除</string>
+    <string name="clear_history_confirm_title">通話履歴を削除しますか？</string>
+    <string name="clear_history_confirm_msg">すべての通話ログエントリが完全に削除されます。</string>
+    <string name="see_caller_spam_id">発信者とスパムIDを表示</string>
+    <string name="see_caller_spam_id_desc">ビジネス番号とスパム番号を識別</string>
+    <string name="filter_spam">スパム通話をフィルタリング</string>
+    <string name="filter_spam_desc">不審なスパム通話で邪魔されないようにする</string>
+    <string name="caller_id_spam_info">Zeno Classic Dialerは、通話の発信または着信時に、連絡先にない番号の名前やスパムと思われる着信への警告など、役立つ情報を表示しようとします。</string>
+    <string name="default_home_country">デフォルトの国</string>
+    <string name="auto_detected">自動検出</string>
+    <string name="assisted_dialing_info">アシストダイヤルは、海外旅行中に電話をかけるときに国コードを予測して追加します。</string>
+    <string name="send_responses_instantly">クイック返信を即座に送信</string>
+    <string name="send_responses_instantly_desc">オフの場合、テキストが入力されたSMSアプリを開きます</string>
+    <string name="appearance">外観</string>
+    <string name="choose_theme">テーマを選択</string>
+    <string name="controls">コントロール</string>
+    <string name="keep_portrait">通話中は縦向きモードを維持</string>
+    <string name="keep_portrait_desc">通話中の予期しない自動回転を防ぎます</string>
+    <string name="flip_to_silence_desc">着信をサイレントにするには、端末を平らな面に画面を下にして置いてください</string>
+    <string name="announce_caller_id">発信者IDをアナウンス</string>
+    <string name="never">しない</string>
+    <string name="always">常に</string>
+    <string name="headset_only">ヘッドセット使用時のみ</string>
+    <string name="caller_id_announcement_info">着信通話の発信者の名前と番号が読み上げられます。</string>
+    <string name="notifications">通知</string>
+    <string name="visual_voicemail">ビジュアルボイスメール</string>
+    <string name="visual_voicemail_desc">キャリアがビジュアルボイスメールに対応していない場合があります</string>
+    <string name="advanced_settings">詳細設定</string>
+    <string name="contact_ringtones_desc">個々の連絡先にカスタム着信音を追加して、誰が電話しているかを識別できます。デフォルトの着信音を管理するには、設定にアクセスしてください。</string>
+    <string name="add_contact_ringtone">連絡先の着信音を追加</string>
+    <string name="your_calling_card">あなたの名刺</string>
+    <string name="your_calling_card_desc">通話時に他者からどう見えるか</string>
+    <string name="create">作成</string>
+    <string name="contact_calling_card">連絡先の名刺</string>
+    <string name="contact_calling_card_desc">連絡先から電話があったときの名前と画像の表示方法</string>
+    <string name="back">戻る</string>
+    <string name="more">その他</string>
+    <string name="mobile">携帯</string>
+    <string name="work">仕事</string>
+
+    <!-- Permissions / Prompts -->
+    <string name="phone_permission_required">電話の権限が必要です</string>
+    <string name="telecom_failed">Telecom失敗 (%1$s)、ACTION_CALLを試みています</string>
+    <string name="fallback_failed">フォールバック失敗: %1$s</string>
+    <string name="could_not_open_contact">連絡先を開けませんでした: %1$s</string>
+    <string name="enable_toolbar_buttons">ツールバーボタンを有効にする</string>
+    <string name="accessibility_prompt_msg">Zeno Classic Dialerがキーボードツールバーの通話ボタンと終了ボタンを使用できるようにしてください。\n\nリストで「Zeno Classic Dialer」を見つけて有効にしてください。</string>
+    <string name="open_settings">設定を開く</string>
+    <string name="not_now">後で</string>
+    <string name="set_as_default_hint">タップしてデフォルトの電話アプリに設定</string>
+    <string name="theme_original_classic">オリジナルクラシック</string>
+    <string name="theme_modern_classic">モダンクラシック</string>
+    <string name="theme_pixel">Pixel</string>
+    <string name="active_call_channel_desc">進行中の通話とクイックコントロールを表示</string>
+    <string name="incoming_calls_channel_name">着信通話</string>
+    <string name="incoming_calls_channel_desc">着信通話のヘッズアップ通知</string>
+    <string name="failed_to_send_message">メッセージの送信に失敗しました</string>
+</resources>
